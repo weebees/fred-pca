@@ -5,3 +5,9 @@ fred_api_key.txt
 Quantitative Assignment_FredAPI_Parsing (JPM ALM ResearchandStrategy).ipynb
 
 New folder
+
+.idea/
+
+*.pyc
+
+.env
